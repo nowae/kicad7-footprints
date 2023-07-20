@@ -976,7 +976,7 @@
       ff2a70de-1a29-433d-a72d-455e5e9ac72e
     )
   )
-  (model ":NOWAE_FOR_KICAD7_3DMODEL_DIR:RF_Module.pretty/ESP32_C3_MINI_1.wrl"
+  (model "${NOWAE_FOR_KICAD7_3DMODEL_DIR}/RF_Module.3dshapes/ESP32_C3_MINI_1.wrz"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
