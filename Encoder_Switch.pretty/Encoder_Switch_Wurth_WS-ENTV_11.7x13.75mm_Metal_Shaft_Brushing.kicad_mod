@@ -88,7 +88,7 @@
   (pad "A" thru_hole circle (at 7.5 2.5) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp f18757a5-acc4-4670-ac96-7faf5ca52d1c))
   (pad "B" thru_hole circle (at 7.5 -2.5) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 31612604-d890-44c1-a9a7-02183624528e))
   (pad "C" thru_hole circle (at 7.5 0) (size 1.5 1.5) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 29e04a0a-01db-402a-bb31-92ce0d98fc1f))
-  (model ":NOWAE_FOR_KICAD7_3DMODEL_DIR:Rotary_Encoder.3dshapes/Wurth/Wurth_WS-ENTV_Mechanical_Incremental_Encoder_Switch_11.7x13.75mm_Metal_Shaft_with_bushing.wrz"
+  (model ":NOWAE_FOR_KICAD7_3DMODEL_DIR:Encoder_Switch.3dshapes/Wurth/Wurth_WS-ENTV_Mechanical_Incremental_Encoder_Switch_11.7x13.75mm_Metal_Shaft_with_bushing.wrz"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
