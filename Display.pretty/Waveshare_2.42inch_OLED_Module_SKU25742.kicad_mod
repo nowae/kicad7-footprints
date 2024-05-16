@@ -37,7 +37,7 @@
     (stroke (width 0.1) (type default)) (fill none) (layer "F.Fab") (tstamp 1eef3567-056e-4d09-95f8-4b62a2aade09))
   (fp_circle (center 27.75 16.25) (end 29 16.25)
     (stroke (width 0.1) (type default)) (fill none) (layer "F.Fab") (tstamp 6d6f8930-5571-41e1-88ab-8ea17b45f843))
-  (model ":NOWAE_FOR_KICAD7_3DMODEL_DIR:Display.3dshapes/Waveshare/OLED/Waveshare_2.42inch_OLED_MODULE_SKU25742.wrz"
+  (model ":NOWAE_FOR_KICAD7_3DMODEL_DIR:Display.3dshapes/Waveshare/OLED/Waveshare_2.42inch_OLED_Module_SKU25742.wrz"
     (offset (xyz 0 0 -1.3))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
